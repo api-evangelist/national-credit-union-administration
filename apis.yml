@@ -40,6 +40,10 @@ apis:
       public REST API at this time; data is available as downloadable bulk
       files and through interactive web tools.
 common:
+  - type: VulnerabilityDisclosure
+    url: security/national-credit-union-administration-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/national-credit-union-administration-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-credit-union-administration
   - type: Website
