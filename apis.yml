@@ -8,7 +8,19 @@ description: >-
   Performance data and a Credit Union Locator, but does not currently
   document a public REST API.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-credit-union-administration.png
 url: https://raw.githubusercontent.com/api-evangelist/national-credit-union-administration/refs/heads/main/apis.yml
 created: '2024-12-03'
 modified: '2026-04-28'
