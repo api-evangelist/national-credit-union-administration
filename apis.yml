@@ -24,7 +24,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-c
 url: https://raw.githubusercontent.com/api-evangelist/national-credit-union-administration/refs/heads/main/apis.yml
 created: '2024-12-03'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Credit Unions
   - Federal Government
