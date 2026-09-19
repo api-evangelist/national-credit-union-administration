@@ -37,7 +37,7 @@ created: '2024-12-03'
 modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
-  - Credit Unions
+  - Credit Union
   - Federal-Government
   - Finance
   - Banking
@@ -50,6 +50,11 @@ apis:
   - aid: national-credit-union-administration:ncua-data
     name: NCUA Data and Call Reports
     tags:
+      - Credit Union
+      - Finance
+      - Call Reports
+      - Open Data
+    tags_raw:
       - Credit Unions
       - Finance
       - Call Reports
